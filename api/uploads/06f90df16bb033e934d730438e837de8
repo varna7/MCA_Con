@@ -1,0 +1,567 @@
+﻿Sno,CollegeName,quota,rank,year
+1,College of Engineering Sreekaryam Thiruvananthapuram,1,1,2022
+2,College of Engineering Sreekaryam Thiruvananthapuram,1,2,2022
+3,College of Engineering Sreekaryam Thiruvananthapuram,1,4,2022
+4,College of Engineering Sreekaryam Thiruvananthapuram,1,8,2022
+5,College of Engineering Sreekaryam Thiruvananthapuram,1,9,2022
+6,College of Engineering Sreekaryam Thiruvananthapuram,1,10,2022
+7,College of Engineering Sreekaryam Thiruvananthapuram,1,11,2022
+8,College of Engineering Sreekaryam Thiruvananthapuram,1,12,2022
+9,College of Engineering Sreekaryam Thiruvananthapuram,1,13,2022
+10,College of Engineering Sreekaryam Thiruvananthapuram,1,15,2022
+11,College of Engineering Sreekaryam Thiruvananthapuram,1,16,2022
+12,College of Engineering Sreekaryam Thiruvananthapuram,1,17,2022
+13,College of Engineering Sreekaryam Thiruvananthapuram,1,18,2022
+14,College of Engineering Sreekaryam Thiruvananthapuram,1,20,2022
+15,College of Engineering Sreekaryam Thiruvananthapuram,1,23,2022
+16,College of Engineering Sreekaryam Thiruvananthapuram,1,24,2022
+17,College of Engineering Sreekaryam Thiruvananthapuram,1,25,2022
+18,College of Engineering Sreekaryam Thiruvananthapuram,1,27,2022
+19,College of Engineering Sreekaryam Thiruvananthapuram,1,28,2022
+20,College of Engineering Sreekaryam Thiruvananthapuram,1,29,2022
+21,College of Engineering Sreekaryam Thiruvananthapuram,1,30,2022
+22,College of Engineering Sreekaryam Thiruvananthapuram,1,31,2022
+23,College of Engineering Sreekaryam Thiruvananthapuram,1,35,2022
+24,College of Engineering Sreekaryam Thiruvananthapuram,1,36,2022
+25,College of Engineering Sreekaryam Thiruvananthapuram,1,37,2022
+26,College of Engineering Sreekaryam Thiruvananthapuram,1,38,2022
+27,College of Engineering Sreekaryam Thiruvananthapuram,1,40,2022
+28,College of Engineering Sreekaryam Thiruvananthapuram,1,43,2022
+29,College of Engineering Sreekaryam Thiruvananthapuram,1,46,2022
+30,College of Engineering Sreekaryam Thiruvananthapuram,1,48,2022
+31,College of Engineering Sreekaryam Thiruvananthapuram,1,49,2022
+32,College of Engineering Sreekaryam Thiruvananthapuram,1,53,2022
+33,College of Engineering Sreekaryam Thiruvananthapuram,2,54,2022
+34,College of Engineering Sreekaryam Thiruvananthapuram,3,56,2022
+35,College of Engineering Sreekaryam Thiruvananthapuram,2,58,2022
+36,College of Engineering Sreekaryam Thiruvananthapuram,4,60,2022
+37,College of Engineering Sreekaryam Thiruvananthapuram,3,73,2022
+38,College of Engineering Sreekaryam Thiruvananthapuram,3,77,2022
+39,College of Engineering Sreekaryam Thiruvananthapuram,4,78,2022
+40,College of Engineering Sreekaryam Thiruvananthapuram,3,79,2022
+41,College of Engineering Sreekaryam Thiruvananthapuram,3,82,2022
+42,College of Engineering Sreekaryam Thiruvananthapuram,4,91,2022
+43,College of Engineering Sreekaryam Thiruvananthapuram,4,100,2022
+44,College of Engineering Sreekaryam Thiruvananthapuram,2,105,2022
+45,College of Engineering Sreekaryam Thiruvananthapuram,5,109,2022
+46,College of Engineering Sreekaryam Thiruvananthapuram,2,119,2022
+47,College of Engineering Sreekaryam Thiruvananthapuram,2,121,2022
+48,College of Engineering Sreekaryam Thiruvananthapuram,6,135,2022
+49,College of Engineering Sreekaryam Thiruvananthapuram,2,138,2022
+50,College of Engineering Sreekaryam Thiruvananthapuram,7,163,2022
+51,College of Engineering Sreekaryam Thiruvananthapuram,5,191,2022
+52,College of Engineering Sreekaryam Thiruvananthapuram,8,293,2022
+53,College of Engineering Sreekaryam Thiruvananthapuram,9,307,2022
+54,College of Engineering Sreekaryam Thiruvananthapuram,10,585,2022
+55,College of Engineering Sreekaryam Thiruvananthapuram,1,3,2021
+56,College of Engineering Sreekaryam Thiruvananthapuram,1,4,2021
+57,College of Engineering Sreekaryam Thiruvananthapuram,1,9,2021
+58,College of Engineering Sreekaryam Thiruvananthapuram,1,12,2021
+59,College of Engineering Sreekaryam Thiruvananthapuram,1,14,2021
+60,College of Engineering Sreekaryam Thiruvananthapuram,1,19,2021
+61,College of Engineering Sreekaryam Thiruvananthapuram,1,21,2021
+62,College of Engineering Sreekaryam Thiruvananthapuram,1,26,2021
+63,College of Engineering Sreekaryam Thiruvananthapuram,1,27,2021
+64,College of Engineering Sreekaryam Thiruvananthapuram,1,28,2021
+65,College of Engineering Sreekaryam Thiruvananthapuram,1,29,2021
+66,College of Engineering Sreekaryam Thiruvananthapuram,1,30,2021
+67,College of Engineering Sreekaryam Thiruvananthapuram,1,31,2021
+68,College of Engineering Sreekaryam Thiruvananthapuram,1,32,2021
+69,College of Engineering Sreekaryam Thiruvananthapuram,1,33,2021
+70,College of Engineering Sreekaryam Thiruvananthapuram,1,35,2021
+71,College of Engineering Sreekaryam Thiruvananthapuram,1,36,2021
+72,College of Engineering Sreekaryam Thiruvananthapuram,1,37,2021
+73,College of Engineering Sreekaryam Thiruvananthapuram,1,38,2021
+74,College of Engineering Sreekaryam Thiruvananthapuram,1,44,2021
+75,College of Engineering Sreekaryam Thiruvananthapuram,1,46,2021
+76,College of Engineering Sreekaryam Thiruvananthapuram,1,47,2021
+77,College of Engineering Sreekaryam Thiruvananthapuram,1,48,2021
+78,College of Engineering Sreekaryam Thiruvananthapuram,1,50,2021
+79,College of Engineering Sreekaryam Thiruvananthapuram,1,51,2021
+80,College of Engineering Sreekaryam Thiruvananthapuram,1,52,2021
+81,College of Engineering Sreekaryam Thiruvananthapuram,1,53,2021
+82,College of Engineering Sreekaryam Thiruvananthapuram,1,57,2021
+83,College of Engineering Sreekaryam Thiruvananthapuram,1,58,2021
+84,College of Engineering Sreekaryam Thiruvananthapuram,1,63,2021
+85,College of Engineering Sreekaryam Thiruvananthapuram,1,66,2021
+86,College of Engineering Sreekaryam Thiruvananthapuram,1,70,2021
+87,College of Engineering Sreekaryam Thiruvananthapuram,1,73,2021
+88,College of Engineering Sreekaryam Thiruvananthapuram,4,76,2021
+89,College of Engineering Sreekaryam Thiruvananthapuram,3,77,2021
+90,College of Engineering Sreekaryam Thiruvananthapuram,2,94,2021
+91,College of Engineering Sreekaryam Thiruvananthapuram,3,96,2021
+92,College of Engineering Sreekaryam Thiruvananthapuram,4,107,2021
+93,College of Engineering Sreekaryam Thiruvananthapuram,2,111,2021
+94,College of Engineering Sreekaryam Thiruvananthapuram,4,113,2021
+95,College of Engineering Sreekaryam Thiruvananthapuram,4,119,2021
+96,College of Engineering Sreekaryam Thiruvananthapuram,2,135,2021
+97,College of Engineering Sreekaryam Thiruvananthapuram,3,139,2021
+98,College of Engineering Sreekaryam Thiruvananthapuram,7,141,2021
+99,College of Engineering Sreekaryam Thiruvananthapuram,3,143,2021
+100,College of Engineering Sreekaryam Thiruvananthapuram,4,145,2021
+101,College of Engineering Sreekaryam Thiruvananthapuram,2,159,2021
+102,College of Engineering Sreekaryam Thiruvananthapuram,3,182,2021
+103,College of Engineering Sreekaryam Thiruvananthapuram,7,191,2021
+104,College of Engineering Sreekaryam Thiruvananthapuram,9,212,2021
+105,College of Engineering Sreekaryam Thiruvananthapuram,5,227,2021
+106,College of Engineering Sreekaryam Thiruvananthapuram,5,259,2021
+107,College of Engineering Sreekaryam Thiruvananthapuram,2,275,2021
+108,College of Engineering Sreekaryam Thiruvananthapuram,10,313,2021
+109,College of Engineering Sreekaryam Thiruvananthapuram,2,330,2021
+110,College of Engineering Sreekaryam Thiruvananthapuram,6,438,2021
+111,College of Engineering Sreekaryam Thiruvananthapuram,9,615,2021
+112,College of Engineering Sreekaryam Thiruvananthapuram,9,740,2021
+113,College of Engineering Sreekaryam Thiruvananthapuram,9,1200,2021
+114,College of Engineering Sreekaryam Thiruvananthapuram,11,1686,2021
+115,TKM College of Engineering Kollam,1,34,2022
+116,TKM College of Engineering Kollam,1,47,2022
+117,TKM College of Engineering Kollam,1,52,2022
+118,TKM College of Engineering Kollam,1,63,2022
+119,TKM College of Engineering Kollam,1,69,2022
+120,TKM College of Engineering Kollam,1,88,2022
+121,TKM College of Engineering Kollam,1,90,2022
+122,TKM College of Engineering Kollam,1,94,2022
+123,TKM College of Engineering Kollam,1,101,2022
+124,TKM College of Engineering Kollam,1,103,2022
+125,TKM College of Engineering Kollam,1,114,2022
+126,TKM College of Engineering Kollam,1,117,2022
+127,TKM College of Engineering Kollam,1,131,2022
+128,TKM College of Engineering Kollam,1,139,2022
+129,TKM College of Engineering Kollam,1,143,2022
+130,TKM College of Engineering Kollam,1,145,2022
+131,TKM College of Engineering Kollam,1,148,2022
+132,TKM College of Engineering Kollam,1,162,2022
+133,TKM College of Engineering Kollam,1,166,2022
+134,TKM College of Engineering Kollam,1,173,2022
+135,TKM College of Engineering Kollam,1,177,2022
+136,TKM College of Engineering Kollam,7,189,2022
+137,TKM College of Engineering Kollam,1,196,2022
+138,TKM College of Engineering Kollam,3,210,2022
+139,TKM College of Engineering Kollam,3,215,2022
+140,TKM College of Engineering Kollam,5,225,2022
+141,TKM College of Engineering Kollam,4,234,2022
+142,TKM College of Engineering Kollam,3,263,2022
+143,TKM College of Engineering Kollam,4,270,2022
+144,TKM College of Engineering Kollam,4,273,2022
+145,TKM College of Engineering Kollam,9,1524,2022
+146,TKM College of Engineering Kollam,9,1537,2022
+147,TKM College of Engineering Kollam,9,1727,2022
+148,TKM College of Engineering Kollam,10,2135,2022
+149,TKM College of Engineering Kollam,1,54,2021
+150,TKM College of Engineering Kollam,1,67,2021
+151,TKM College of Engineering Kollam,1,72,2021
+152,TKM College of Engineering Kollam,1,75,2021
+153,TKM College of Engineering Kollam,1,81,2021
+154,TKM College of Engineering Kollam,1,82,2021
+155,TKM College of Engineering Kollam,1,86,2021
+156,TKM College of Engineering Kollam,1,116,2021
+157,TKM College of Engineering Kollam,1,118,2021
+158,TKM College of Engineering Kollam,1,130,2021
+159,TKM College of Engineering Kollam,1,157,2021
+160,TKM College of Engineering Kollam,1,158,2021
+161,TKM College of Engineering Kollam,1,164,2021
+162,TKM College of Engineering Kollam,1,172,2021
+163,TKM College of Engineering Kollam,1,201,2021
+164,TKM College of Engineering Kollam,1,216,2021
+165,TKM College of Engineering Kollam,1,222,2021
+166,TKM College of Engineering Kollam,1,223,2021
+167,TKM College of Engineering Kollam,1,224,2021
+168,TKM College of Engineering Kollam,1,226,2021
+169,TKM College of Engineering Kollam,1,247,2021
+170,TKM College of Engineering Kollam,3,261,2021
+171,TKM College of Engineering Kollam,3,263,2021
+172,TKM College of Engineering Kollam,3,268,2021
+173,TKM College of Engineering Kollam,4,334,2021
+174,TKM College of Engineering Kollam,4,390,2021
+175,TKM College of Engineering Kollam,7,435,2021
+176,TKM College of Engineering Kollam,12,441,2021
+177,TKM College of Engineering Kollam,6,462,2021
+178,TKM College of Engineering Kollam,10,738,2021
+179,TKM College of Engineering Kollam,5,1114,2021
+180,TKM College of Engineering Kollam,9,1116,2021
+181,TKM College of Engineering Kollam,9,1311,2021
+182,TKM College of Engineering Kollam,8,1512,2021
+183,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680501",1,95,2022
+184,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680502",1,122,2022
+185,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680503",1,221,2022
+186,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680504",1,232,2022
+187,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680505",1,238,2022
+188,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680506",1,305,2022
+189,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680507",1,438,2022
+190,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680508",1,440,2022
+191,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680509",1,447,2022
+192,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680510",1,549,2022
+193,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680511",1,552,2022
+194,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680512",1,582,2022
+195,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680513",1,598,2022
+196,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680514",1,605,2022
+197,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680515",1,621,2022
+198,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680516",1,653,2022
+199,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680517",1,790,2022
+200,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680518",1,823,2022
+201,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680519",1,890,2022
+202,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680520",1,906,2022
+203,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680521",3,980,2022
+204,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680522",9,1089,2022
+205,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680523",3,1111,2022
+206,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680524",6,1162,2022
+207,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680525",4,1484,2022
+208,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680526",4,1943,2022
+209,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680527",2,1981,2022
+210,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680528",1,2061,2022
+211,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680529",1,2067,2022
+212,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680530",3,2301,2022
+213,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680531",1,176,2021
+214,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680532",1,256,2021
+215,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680533",1,376,2021
+216,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680534",1,386,2021
+217,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680535",1,412,2021
+218,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680536",1,442,2021
+219,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680537",1,448,2021
+220,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680538",1,455,2021
+221,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680539",1,465,2021
+222,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680540",1,475,2021
+223,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680541",1,503,2021
+224,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680542",1,519,2021
+225,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680543",1,521,2021
+226,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680544",1,527,2021
+227,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680545",1,533,2021
+228,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680546",1,585,2021
+229,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680547",1,665,2021
+230,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680548",1,667,2021
+231,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680549",1,831,2021
+232,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680550",1,848,2021
+233,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680551",1,889,2021
+234,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680552",1,968,2021
+235,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680553",1,1020,2021
+236,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680554",1,1050,2021
+237,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680555",1,1315,2021
+238,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680556",1,1394,2021
+239,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680557",7,1455,2021
+240,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680558",4,1487,2021
+241,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680559",3,1769,2021
+242,"Vidya Academy of 9ience & Technology, 12rumal, Thalakottukkara P.O, Thrissur - 680560",2,1921,2021
+243,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,6,2021
+244,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,13,2021
+245,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,45,2021
+246,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,55,2021
+247,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,59,2021
+248,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,61,2021
+249,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,62,2021
+250,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,64,2021
+251,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,65,2021
+252,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,68,2021
+253,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,69,2021
+254,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,71,2021
+255,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,80,2021
+256,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,91,2021
+257,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,98,2021
+258,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,101,2021
+259,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",4,104,2021
+260,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",3,122,2021
+261,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",5,129,2021
+262,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",3,146,2021
+263,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",2,186,2021
+264,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",4,189,2021
+265,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",3,193,2021
+266,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",2,215,2021
+267,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",2,322,2021
+268,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",6,329,2021
+269,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",10,458,2021
+270,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",9,574,2021
+271,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",9,1021,2021
+272,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",9,1199,2021
+273,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,7,2022
+274,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,19,2022
+275,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,44,2022
+276,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,45,2022
+277,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,57,2022
+278,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,59,2022
+279,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,62,2022
+280,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,66,2022
+281,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,68,2022
+282,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,71,2022
+283,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,80,2022
+284,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,81,2022
+285,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,83,2022
+286,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,84,2022
+287,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,85,2022
+288,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,89,2022
+289,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",1,92,2022
+290,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",3,93,2022
+291,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",3,99,2022
+292,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",6,104,2022
+293,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",2,120,2022
+294,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",4,124,2022
+295,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",7,125,2022
+296,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",4,126,2022
+297,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",3,132,2022
+298,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",2,192,2022
+299,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",5,271,2022
+300,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",9,946,2022
+301,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",10,1843,2022
+302,"Government College of Engineering, Ramavarmapuram, Thrissur – 680 009.",11,2534,2022
+303,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,33,2022
+304,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,112,2022
+305,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,115,2022
+306,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,118,2022
+307,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,128,2022
+308,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,130,2022
+309,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,152,2022
+310,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,153,2022
+311,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,157,2022
+312,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,158,2022
+313,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,164,2022
+314,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,165,2022
+315,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,169,2022
+316,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,172,2022
+317,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,186,2022
+318,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,188,2022
+319,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,194,2022
+320,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,203,2022
+321,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,204,2022
+322,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,205,2022
+323,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,208,2022
+324,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,214,2022
+325,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,216,2022
+326,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,227,2022
+327,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,233,2022
+328,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,236,2022
+329,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,239,2022
+330,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,244,2022
+331,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,251,2022
+332,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,256,2022
+333,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,260,2022
+334,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,265,2022
+335,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,272,2022
+336,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,274,2022
+337,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,310,2022
+338,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,314,2022
+339,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,315,2022
+340,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,316,2022
+341,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,320,2022
+342,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,321,2022
+343,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,322,2022
+344,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,325,2022
+345,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",5,328,2022
+346,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",7,332,2022
+347,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,346,2022
+348,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,347,2022
+349,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,394,2022
+350,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,415,2022
+351,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",7,422,2022
+352,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",6,468,2022
+353,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,476,2022
+354,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,666,2022
+355,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,689,2022
+356,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",10,735,2022
+357,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,863,2022
+358,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,935,2022
+359,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,1222,2022
+360,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,1391,2022
+361,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,1431,2022
+362,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,2614,2022
+363,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,78,2021
+364,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,87,2021
+365,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,88,2021
+366,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,99,2021
+367,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,102,2021
+368,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,106,2021
+369,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,109,2021
+370,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,112,2021
+371,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,117,2021
+372,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,121,2021
+373,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,123,2021
+374,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,132,2021
+375,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,133,2021
+376,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,134,2021
+377,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,140,2021
+378,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,147,2021
+379,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,148,2021
+380,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,151,2021
+381,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,156,2021
+382,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,166,2021
+383,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,174,2021
+384,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,184,2021
+385,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,185,2021
+386,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,188,2021
+387,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,192,2021
+388,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,195,2021
+389,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,196,2021
+390,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,197,2021
+391,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,203,2021
+392,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",1,204,2021
+393,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,209,2021
+394,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,220,2021
+395,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,221,2021
+396,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,228,2021
+397,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,245,2021
+398,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,264,2021
+399,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,270,2021
+400,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,283,2021
+401,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",3,285,2021
+402,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",12,294,2021
+403,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,319,2021
+404,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,328,2021
+405,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,335,2021
+406,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,362,2021
+407,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",6,375,2021
+408,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",4,395,2021
+409,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,517,2021
+410,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,518,2021
+411,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",7,611,2021
+412,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",2,627,2021
+413,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",10,661,2021
+414,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",7,783,2021
+415,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",5,805,2021
+416,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,867,2021
+417,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,1194,2021
+418,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",13,1210,2021
+419,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,1474,2021
+420,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",8,1509,2021
+421,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",13,1697,2021
+422,"Rajiv Gandhi In11itute of Technology, Velloor P.O, Pampady, Kottayam",9,2060,2021
+423,"Mar Athanasius College of Engineering, Kothamangalam",1,21,2022
+424,"Mar Athanasius College of Engineering, Kothamangalam",1,22,2022
+425,"Mar Athanasius College of Engineering, Kothamangalam",1,32,2022
+426,"Mar Athanasius College of Engineering, Kothamangalam",1,61,2022
+427,"Mar Athanasius College of Engineering, Kothamangalam",1,76,2022
+428,"Mar Athanasius College of Engineering, Kothamangalam",1,96,2022
+429,"Mar Athanasius College of Engineering, Kothamangalam",1,108,2022
+430,"Mar Athanasius College of Engineering, Kothamangalam",1,113,2022
+431,"Mar Athanasius College of Engineering, Kothamangalam",1,116,2022
+432,"Mar Athanasius College of Engineering, Kothamangalam",1,136,2022
+433,"Mar Athanasius College of Engineering, Kothamangalam",1,175,2022
+434,"Mar Athanasius College of Engineering, Kothamangalam",1,179,2022
+435,"Mar Athanasius College of Engineering, Kothamangalam",1,183,2022
+436,"Mar Athanasius College of Engineering, Kothamangalam",1,195,2022
+437,"Mar Athanasius College of Engineering, Kothamangalam",1,201,2022
+438,"Mar Athanasius College of Engineering, Kothamangalam",6,219,2022
+439,"Mar Athanasius College of Engineering, Kothamangalam",3,231,2022
+440,"Mar Athanasius College of Engineering, Kothamangalam",4,242,2022
+441,"Mar Athanasius College of Engineering, Kothamangalam",4,290,2022
+442,"Mar Athanasius College of Engineering, Kothamangalam",9,299,2022
+443,"Mar Athanasius College of Engineering, Kothamangalam",3,339,2022
+444,"Mar Athanasius College of Engineering, Kothamangalam",5,405,2022
+445,"Mar Athanasius College of Engineering, Kothamangalam",7,557,2022
+446,"Mar Athanasius College of Engineering, Kothamangalam",8,841,2022
+447,"Mar Athanasius College of Engineering, Kothamangalam",13,1328,2022
+448,"Mar Athanasius College of Engineering, Kothamangalam",9,1451,2022
+449,"Mar Athanasius College of Engineering, Kothamangalam",1,10,2021
+450,"Mar Athanasius College of Engineering, Kothamangalam",1,15,2021
+451,"Mar Athanasius College of Engineering, Kothamangalam",1,18,2021
+452,"Mar Athanasius College of Engineering, Kothamangalam",1,56,2021
+453,"Mar Athanasius College of Engineering, Kothamangalam",1,84,2021
+454,"Mar Athanasius College of Engineering, Kothamangalam",1,93,2021
+455,"Mar Athanasius College of Engineering, Kothamangalam",1,105,2021
+456,"Mar Athanasius College of Engineering, Kothamangalam",1,124,2021
+457,"Mar Athanasius College of Engineering, Kothamangalam",1,127,2021
+458,"Mar Athanasius College of Engineering, Kothamangalam",1,144,2021
+459,"Mar Athanasius College of Engineering, Kothamangalam",1,149,2021
+460,"Mar Athanasius College of Engineering, Kothamangalam",1,153,2021
+461,"Mar Athanasius College of Engineering, Kothamangalam",1,161,2021
+462,"Mar Athanasius College of Engineering, Kothamangalam",1,162,2021
+463,"Mar Athanasius College of Engineering, Kothamangalam",1,163,2021
+464,"Mar Athanasius College of Engineering, Kothamangalam",1,168,2021
+465,"Mar Athanasius College of Engineering, Kothamangalam",1,170,2021
+466,"Mar Athanasius College of Engineering, Kothamangalam",1,183,2021
+467,"Mar Athanasius College of Engineering, Kothamangalam",4,190,2021
+468,"Mar Athanasius College of Engineering, Kothamangalam",3,199,2021
+469,"Mar Athanasius College of Engineering, Kothamangalam",4,200,2021
+470,"Mar Athanasius College of Engineering, Kothamangalam",3,214,2021
+471,"Mar Athanasius College of Engineering, Kothamangalam",5,338,2021
+472,"Mar Athanasius College of Engineering, Kothamangalam",7,446,2021
+473,"Mar Athanasius College of Engineering, Kothamangalam",9,974,2021
+474,"Mar Athanasius College of Engineering, Kothamangalam",9,1273,2021
+475,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,280,2022
+476,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,289,2022
+477,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,302,2022
+478,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,393,2022
+479,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,460,2022
+480,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,467,2022
+481,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,486,2022
+482,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,490,2022
+483,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,523,2022
+484,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,545,2022
+485,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,567,2022
+486,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,568,2022
+487,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,661,2022
+488,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,687,2022
+489,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,706,2022
+490,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,726,2022
+491,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,788,2022
+492,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,798,2022
+493,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,799,2022
+494,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,888,2022
+495,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,951,2022
+496,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,958,2022
+497,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1047,2022
+498,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1063,2022
+499,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1074,2022
+500,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1127,2022
+501,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1142,2022
+502,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1359,2022
+503,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1416,2022
+504,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1453,2022
+505,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1548,2022
+506,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1772,2022
+507,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1990,2022
+508,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2034,2022
+509,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2076,2022
+510,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2099,2022
+511,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2279,2022
+512,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2455,2022
+513,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2531,2022
+514,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2537,2022
+515,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2560,2022
+516,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2574,2022
+517,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,2663,2022
+518,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",3,2690,2022
+519,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,225,2021
+520,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,293,2021
+521,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,346,2021
+522,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,374,2021
+523,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,407,2021
+524,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,477,2021
+525,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,511,2021
+526,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,514,2021
+527,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,576,2021
+528,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,606,2021
+529,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,609,2021
+530,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,635,2021
+531,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,727,2021
+532,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,734,2021
+533,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,757,2021
+534,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,801,2021
+535,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,821,2021
+536,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,824,2021
+537,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,830,2021
+538,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,832,2021
+539,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,835,2021
+540,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,851,2021
+541,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,884,2021
+542,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,921,2021
+543,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,952,2021
+544,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1049,2021
+545,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1063,2021
+546,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1071,2021
+547,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1171,2021
+548,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1205,2021
+549,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1224,2021
+550,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1240,2021
+551,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1264,2021
+552,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1331,2021
+553,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1424,2021
+554,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1453,2021
+555,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1490,2021
+556,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1500,2021
+557,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1695,2021
+558,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1721,2021
+559,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1760,2021
+560,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1854,2021
+561,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1856,2021
+562,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1871,2021
+563,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1888,2021
+564,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1899,2021
+565,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",1,1943,2021
+566,"College of Engineering Vadakara, P.O. Mandarathur P.O, Vadakara - 673105, Kozhikode",10,2028,2021
